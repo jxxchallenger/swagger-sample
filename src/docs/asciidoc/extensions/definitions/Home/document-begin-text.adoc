@@ -1,0 +1,3 @@
+== Home类自定义开始
+
+Dummy text in document begin hook Home类自定义开始

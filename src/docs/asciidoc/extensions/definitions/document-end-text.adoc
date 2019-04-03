@@ -1,0 +1,3 @@
+== Document end hook
+
+Dummy text in document end hook Home类自定义结束
